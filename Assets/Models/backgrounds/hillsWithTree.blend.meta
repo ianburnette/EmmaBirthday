@@ -1,0 +1,157 @@
+fileFormatVersion: 2
+guid: 8f7642aeefeffa14b9d80daa90c8e94a
+timeCreated: 1459103062
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: tree
+    100004: tree_001
+    100006: tree_002
+    100008: Armature_002
+    100010: Bone
+    100012: Bone_001
+    100014: Bone_002
+    100016: Bone_003
+    100018: Bone_004
+    100020: Bone_005
+    100022: Bone_006
+    100024: Bone_007
+    100026: Bone_008
+    100028: Bone_009
+    100030: Bone_010
+    100032: Bone_011
+    100034: Bone_012
+    100036: Bone_013
+    100038: Bone_014
+    100040: Bone_015
+    100042: Bone_016
+    100044: Bone_017
+    100046: Bone_018
+    100048: Bone_019
+    100050: Bone_020
+    100052: Bone_021
+    100054: Bone_022
+    100056: Bone_023
+    100058: Bone_024
+    100060: Bone_025
+    100062: Bone_026
+    100064: Bone_027
+    100066: Cube
+    100068: Cube_001
+    400000: //RootNode
+    400002: tree
+    400004: tree_001
+    400006: tree_002
+    400008: Armature_002
+    400010: Bone
+    400012: Bone_001
+    400014: Bone_002
+    400016: Bone_003
+    400018: Bone_004
+    400020: Bone_005
+    400022: Bone_006
+    400024: Bone_007
+    400026: Bone_008
+    400028: Bone_009
+    400030: Bone_010
+    400032: Bone_011
+    400034: Bone_012
+    400036: Bone_013
+    400038: Bone_014
+    400040: Bone_015
+    400042: Bone_016
+    400044: Bone_017
+    400046: Bone_018
+    400048: Bone_019
+    400050: Bone_020
+    400052: Bone_021
+    400054: Bone_022
+    400056: Bone_023
+    400058: Bone_024
+    400060: Bone_025
+    400062: Bone_026
+    400064: Bone_027
+    400066: Cube
+    400068: Cube_001
+    2300000: tree
+    2300002: tree_001
+    2300004: tree_002
+    2300006: Cube
+    3300000: tree
+    3300002: tree_001
+    3300004: tree_002
+    3300006: Cube
+    4300000: tree_002
+    4300002: tree_001
+    4300004: tree
+    4300006: Cube
+    4300008: Cube_001
+    7400000: Default Take
+    9500000: //RootNode
+    13700000: Cube_001
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 10
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
